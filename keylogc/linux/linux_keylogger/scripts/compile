@@ -1,0 +1,4 @@
+#!/bin/bash
+cd ..
+cd ..
+gcc linux_keylogger.c -o keylogger

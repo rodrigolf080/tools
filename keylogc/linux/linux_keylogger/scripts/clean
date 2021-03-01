@@ -1,0 +1,8 @@
+#!/bin/bash
+sudo killall keylogger
+cd ..
+cd ..
+cat /tmp/keylog.txt
+sudo rm -f /tmp/keylog.txt
+rm -f keylogger
+

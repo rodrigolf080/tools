@@ -1,0 +1,8 @@
+-- Keyloggers in C :: Windows :: Linux
+----
+----
+Features
+::
+1. Basic Keylogging into memory (maybe change for smtp)
+2. Stealth daemon process
+3. Compilation, follow log file, clean, kill process and run scripts available for linux

