@@ -1,0 +1,1 @@
+-- Place this folder in your home directory and change its name to .treeDir as it is a config file 

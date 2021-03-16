@@ -1,0 +1,5 @@
+#!/bin/bash
+cd ~/.configs/treeDir
+make clean
+make
+echo 'alias tree="~/.configs/treeDir/tree"' >> ~/.bash_profile && source ~/.bash_profile
