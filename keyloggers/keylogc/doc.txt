@@ -1,1 +1,0 @@
-Don't run this on system which you don't have permission to do so.
